@@ -1,7 +1,7 @@
 # ZZZZzzzzzzzzzzzz32.github.io
 
 My personal website!
-<ZZZZzzzzzzzzzzzz32.github.io>
+[HelloZZZZzzzzzzzzzzzz](ZZZZzzzzzzzzzzzz32.github.io)
 
 README.md commit to main.
 
